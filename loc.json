@@ -10,5 +10,17 @@
     "latitude": -25.44635,
     "longitude": -49.28588,
     "name": "Petroleo"
+  },
+  {
+        "key": "BF",
+        "latitude": -22.946856645010048,
+        "longitude": -43.18429986895154,
+        "name": "BOTAFOGO - RJ"
+  },
+  {
+        "key": "CN",
+        "latitude": -22.90606656617575,
+        "longitude": -43.198719423737984,
+        "name": "CIDADE NOVA - RJ"
   }
 ]
