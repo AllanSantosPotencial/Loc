@@ -12,15 +12,75 @@
     "name": "Petroleo"
   },
   {
-        "key": "BF",
-        "latitude": -22.946856645010048,
-        "longitude": -43.18429986895154,
-        "name": "BOTAFOGO - RJ"
+    "key": "BWT",
+    "latitude": -25.550621,
+    "longitude": -49.370157,
+    "name": "BWT"
   },
   {
-        "key": "CN",
-        "latitude": -22.90606656617575,
-        "longitude": -43.198719423737984,
-        "name": "CIDADE NOVA - RJ"
+    "key": "ARAP",
+    "latitude": -25.572679,
+    "longitude": -49.371412,
+    "name": "Base Araucária"
+  },  {
+    "key": "RGS",
+    "latitude": -32.050467,
+    "longitude": -52.085867,
+    "name": "Base Rio Grande"
+  },
+  {
+    "key": "BTM",
+    "latitude": -19.958666,
+    "longitude": -44.089589,
+    "name": "Base Betim"
+  },  {
+    "key": "GUA",
+    "latitude": -23.468369,
+    "longitude": -46.449801,
+    "name": "Usina"
+  },
+  {
+    "key": "PLN",
+    "latitude": -22.709362,
+    "longitude": -47.139375,
+    "name": "Base Paulinia"
+  },  {
+    "key": "ITA",
+    "latitude": -26.946021,
+    "longitude": -48.71102,
+    "name": "Base Itajai"
+  },
+  {
+    "key": "CPC",
+    "latitude": -27.173244,
+    "longitude": -52.635861,
+    "name": "Base Chapeco"
+  },  {
+    "key": "SRD",
+    "latitude": -23.464448,
+    "longitude": -51.858017,
+    "name": "Base Sarandi"
+  },
+  {
+    "key": "RBP",
+    "latitude": -21.133112,
+    "longitude": -47.859420,
+    "name": "Base Ribeirao Preto"
+  },  {
+    "key": "CBR",
+    "latitude": -28.381478,
+    "longitude": -54.065195,
+    "name": "Base Coronel Barros"
+  },
+  {
+    "key": "EST",
+    "latitude": -29.863506,
+    "longitude": -51.178551,
+    "name": "Base Esteio"
+  },  {
+    "key": "VZG",
+    "latitude": -15.648333,
+    "longitude": -56.190696,
+    "name": "Base Varzea Grande"
   }
 ]
